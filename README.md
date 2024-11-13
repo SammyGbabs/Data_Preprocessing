@@ -11,9 +11,7 @@ This README outlines the data preprocessing steps implemented for an image class
    - [3. Handling Outliers](#handling-outliers)
    - [4. Data Transformation](#data-transformation)
    - [5. Data Storage](#data-storage)
-4. [Directory Structure](#directory-structure)
-5. [How to Run](#how-to-run)
-6. [Future Improvements](#future-improvements)
+4. [Future Improvements](#future-improvements)
 
 ## Dataset Overview
 The dataset consists of images across multiple classes (e.g., monkeypox, measles, etc.), each representing a specific skin condition. Each image has been processed to extract relevant features such as edges, texture (Local Binary Pattern), color histograms, and corner intensities, all of which are essential for model training.
